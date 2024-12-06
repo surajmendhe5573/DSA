@@ -1,0 +1,28 @@
+# Compiled binary
+*.out
+*.exe
+*.o
+
+# Build directory
+/build/
+
+# IDE/project-specific files
+.vscode/
+.idea/
+
+# Temporary or log files
+*.tmp
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage or debug files
+*.gcno
+*.gcda
+*.gcov
+
+# Cache files
+*.cache
+*.cmake
